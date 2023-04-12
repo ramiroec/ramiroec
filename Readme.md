@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Elementary OS](https://github.com/elementary)
 
-- 📝 I regularly write articles on [https://es.scribd.com/user/562163668/Ramiro-Estigarribia-Canese](https://es.scribd.com/user/562163668/Ramiro-Estigarribia-Canese)
+- 📝 I regularly write articles on [https://medium.com/@ramiroec](https://medium.com/@ramiroec)
 
 - 💬 Ask me about **PHP, Linux, Python**
 
