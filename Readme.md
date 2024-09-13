@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ramiroec](https://medium.com/@ramiroec)
 
-- 💬 Ask me about **PHP, Linux, Python**
+- 💬 Ask me about **JavaScript, PHP, Linux, Python**
 
 - 📫 How to reach me **ramiroec@gmail.com**
 
